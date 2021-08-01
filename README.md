@@ -1,6 +1,6 @@
 # flutter_compass_app
 
-A new Flutter project.
+Flutter Compass tool app
 
 ## Getting Started
 
